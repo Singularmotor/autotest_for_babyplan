@@ -1,1 +1,2 @@
 # autotest_for_babyplan
+#为Python中用selenium实现的自动化测试脚本项目
