@@ -10,3 +10,5 @@
 脚本编译前准备，把HTMLTestRunner.py放到 *\Python36-32\Lib 目录下
 
 还需要增加selenium模组（自动化），pymysql模组（数据库对接）
+
+数据库为mysql-5.6version，导入文件为babyplan.sql
